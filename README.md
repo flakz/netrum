@@ -32,7 +32,7 @@
 
 2. **Clone the official repository:**
    ```bash
-   git clone <Netrum_Light_Node_Repository_URL>
+   git clone https://github.com/flakz/netrum.git
    ```
 
 3. **Install dependencies:**
